@@ -31,10 +31,11 @@ Si no lo has visto, visualiza [este vídeo sobre Jupyter notebook](https://youtu
 
 ## Uso-Jupyter
 
-YOOOOOOOO
+En el siguiente punto, vamos a crear un notobook en la aplicación Jupyter.
 
-> __Crea algún notobook para familiarizarte con el entorno.__
-> __Añade en él algún campo tanto de código como de MarkDown__
+<div align="center">
+  <img src="2.png" width="500">
+</div>
 
 ## Python
 
