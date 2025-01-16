@@ -1,7 +1,7 @@
-# PPS-Unidad1Actividad2-JoseMi
-Actividad 2 de la Unidad 1 de Puesta en Producción Segura. Tabajaremos con lenguaje de programación Python y con Jupyter notebook.
+# PPS-Unidad1Actividad2-JulioManuelTatoPulido
+En esta actividad trabajaremos con un lenguaje de programación llamado Python y con Jupyter notebook.
 
-Tenemos varios objetivos:
+Repartido en 3 puntos:
 
 > [Instalar Jupiter](#Instalacion-Jupyter)
 
@@ -11,17 +11,13 @@ Tenemos varios objetivos:
 ---
 ## Instalacion Jupyter
 
-En [este enlace](https://hub.docker.com/r/dockeruc/eclipse) puedes encontrar podemos crear un contenedor docker con un entorno IDE Eclipse
-
-Lee bien las instrucciones y ten en cuenta que tienes que hacer varias operaciones. Las que tienes a continuación son de un entorno Linux:
-
-1. Instalamos, si no las tenemos, el paquete de python en su versión 3 y ``pip`` que es un gestor de paquetes escritos en python.
+1. Primero necesitamos imstalar, si no las tenemos, el paquete de python en su versión 3 y ``pip`` que es un gestor de paquetes escritos en python.
 ~~~
 sudo apt install python3
 sudo apt install pip
 ~~~
 
-2. Instalamos Jupyter
+1. Instalamos Jupyter
 
 ~~~
 pip install jupiter
@@ -29,10 +25,10 @@ pip install jupiter
  
 Si no lo has visto, visualiza [este vídeo sobre Jupyter notebook](https://youtu.be/6Vr9ZUntCyE) 
 
-
 ## Uso-Jupyter
 
-Puedes visualizar el siguiente vídeo para ver cómo trabajar con ``Jupyter notebook``
+YOOOOOOOO
+
 > __Crea algún notobook para familiarizarte con el entorno.__
 > __Añade en él algún campo tanto de código como de MarkDown__
 
