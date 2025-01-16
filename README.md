@@ -20,7 +20,7 @@ sudo apt install pip
 2. Instalamos Jupyter
 
 ~~~
-apt install jupiter
+apt install jupiter-lab
 ~~~
 
 <div align="center">
