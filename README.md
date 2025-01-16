@@ -40,7 +40,7 @@ Puedes visualizar el siguiente vídeo para ver cómo trabajar con ``Jupyter note
 
 Instala Jupyter en tu equipo.
 
-Para aprender python puedes seguir cualquiera de los dos enlaces siguientes o puedes buscar alguno que te parezca mejor:
+Para aprender python puedes seguir cualquiera de los dos enlaces siguientes o puedes buscar alguno que te parezca mejor
 
 >[https://docs.python.org/3.10/contents.html](https://docs.python.org/3.10/contents.html)
 
