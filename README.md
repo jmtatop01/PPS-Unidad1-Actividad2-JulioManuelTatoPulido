@@ -17,11 +17,15 @@ sudo apt install python3
 sudo apt install pip
 ~~~
 
-1. Instalamos Jupyter
+2. Instalamos Jupyter
 
 ~~~
-pip install jupiter
+apt install jupiter
 ~~~
+
+<div align="center">
+  <img src="1.png" width="500">
+</div>
  
 Si no lo has visto, visualiza [este vídeo sobre Jupyter notebook](https://youtu.be/6Vr9ZUntCyE) 
 
@@ -63,5 +67,3 @@ Una vez creadas las funciones:
 ## ENTREGA
 
 >__Descarga el notebook realizado como "notebook de Jupyter" y lo envías a través de la plataforma.__
-
-![alt text](1.png)
